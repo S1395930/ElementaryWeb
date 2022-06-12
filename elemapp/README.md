@@ -1,3 +1,29 @@
+# ElementaryWeb
+
+Installation:
+1. node.js
+2. React.js (frontend)
+    npx create-react-app <>
+    npm install --save styled-components
+3. PostGreSQL 
+4. Prisma (Database)
+    a. npx prisma init (creates schema)
+    b. create db
+    c. npx prisma db push (push to DB)
+5. Axios (API)
+    npm install axios
+6. Cloudinary: stores images/files
+    npm install cloudinary
+
+Github:
+    git status
+    git branch
+    git checkout -b (look/go to branch)
+    git add --all (files)
+    git commit -m '<message>'
+
+This is a custom teacher's website:
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
